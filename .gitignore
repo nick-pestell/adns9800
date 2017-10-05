@@ -1,0 +1,49 @@
+#compiled source#
+#################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+#logs and data and metadata#
+############################
+*.log
+*.mat
+*.avi
+*.ini
+*.asv
+*.~m
+
+#figures and videos#
+###################
+*.png
+*.jpg
+*.mp4
+
+#python stuff#
+##############
+*.pyc
+*.pyo
+*.pyd
+
+# Windows image file caches#
+############################
+Thumbs.db
+ehthumbs.db
+
+# Folder config file#
+#####################
+Desktop.ini
+
+# Recycle Bin used on file shares#
+##################################
+$RECYCLE.BIN/
+
+# Windows Installer files#
+##########################
+*.cab
+*.msi
+*.msm
+*.msp

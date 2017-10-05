@@ -1,0 +1,8 @@
+adns9800	KEYWORD1
+powerUp	KEYWORD2
+reset	KEYWORD2
+writeTo	KEYWORD2
+readFrom	KEYWORD2
+burstRead	KEYWORD2
+captureFrame	KEYWORD2
+convTwosComp	KEYWORD2
